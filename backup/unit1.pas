@@ -55,7 +55,7 @@ procedure TForm1.Button1Click(Sender: TObject);
 begin
   Canvas.Pen.Color:=clBlue;
   Canvas.Pen.Width:=5;
-  Canvas.Line(12,14,287,57);
+  Canvas.Line(27,205,287,57);
 end;
 
 procedure TForm1.Image1Click(Sender: TObject);

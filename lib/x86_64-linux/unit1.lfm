@@ -1,0 +1,46 @@
+object Form1: TForm1
+  Left = 398
+  Height = 391
+  Top = 231
+  Width = 626
+  Caption = 'How to create Gragph'
+  ClientHeight = 391
+  ClientWidth = 626
+  OnActivate = FormActivate
+  LCLVersion = '2.0.12.0'
+  object Image1: TImage
+    Left = 8
+    Height = 225
+    Top = 8
+    Width = 400
+    OnClick = Image1Click
+    OnMouseMove = Image1MouseMove
+  end
+  object Label1: TLabel
+    Left = 88
+    Height = 18
+    Top = 261
+    Width = 136
+    Caption = 'Graph Co-Ordinate  si:'
+    ParentColor = False
+    WordWrap = True
+    OnClick = Label1Click
+  end
+  object Label2: TLabel
+    Left = 88
+    Height = 18
+    Top = 320
+    Width = 132
+    Caption = 'General Co-Ordinate:'''
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 472
+    Height = 46
+    Top = 48
+    Width = 74
+    Caption = 'Button1'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+end

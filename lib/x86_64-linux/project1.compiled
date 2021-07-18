@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1622464867"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/puthaimunagway/Dev/mvccharp/mvccharp/lib/x86_64-linux -Fu/usr/lib/lazarus/lcl/units/x86_64-linux/qt5 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/packager/units/x86_64-linux -Fu/home/puthaimunagway/Dev/mvccharp/mvccharp/ -FU/home/puthaimunagway/Dev/mvccharp/mvccharp/lib/x86_64-linux/ -FE/home/puthaimunagway/Dev/mvccharp/mvccharp/ -o/home/puthaimunagway/Dev/mvccharp/mvccharp/project1 -dLCL -dLCLqt5 project1.lpr"/>
+</CONFIG>
